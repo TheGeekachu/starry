@@ -14,12 +14,14 @@
 
 ## Contents
 
-1. [2026-10-08 – Work session](#2026-10-08-work-session)
+1. [2026-10-08 – I added a Seeeduino XIAO. YAY!!!](#2026-10-08-i-added-a-seeeduino-xiao-yay)
 
 ## Design
 
-### 2026-10-08 – Work session
+### 2026-10-08 – I added a Seeeduino XIAO. YAY!!!
 
 **0.25h**
+
+I added a Seeeduino XIAO. YAY!!!
 
 [Timelapse](https://lookout.hackclub.com/api/media/2d2ba5bb-aa1a-4a59-99a0-f5c1f5bc41e8/video.mp4)
